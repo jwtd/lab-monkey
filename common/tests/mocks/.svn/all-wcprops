@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/python-lab-automation/!svn/ver/41/trunk/src/common/tests/mocks
+END
+my_test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/python-lab-automation/!svn/ver/41/trunk/src/common/tests/mocks/my_test.xml
+END
+xml_as_object_seed.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/python-lab-automation/!svn/ver/41/trunk/src/common/tests/mocks/xml_as_object_seed.xml
+END
