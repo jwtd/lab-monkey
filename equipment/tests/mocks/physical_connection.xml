@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<physical_connection>
+  <asset_class>Cable</asset_class>
+  <length>8in</length>
+  <manufacturer>Astrolab</manufacturer>
+  <model>minibend L-8</model>
+  <type>Low loss flexible coaxial cable</type>
+  <visual_identifier>8in Male to Male SMA Cable</visual_identifier>
+  <part_code>PC6</part_code>
+  <connector>
+    <accessor>a</accessor>
+    <visual_identifier>male end</visual_identifier>
+    <device_label></device_label>
+    <lab_label>A</lab_label>
+    <type>SMA</type>
+    <gender>Male</gender>
+    <direction>Neutral</direction>
+    <stackable>False</stackable>
+  </connector>
+  <connector>
+    <accessor>b</accessor>
+    <visual_identifier>male end</visual_identifier>
+    <device_label></device_label>
+    <lab_label>B</lab_label>
+    <type>SMA</type>
+    <gender>Male</gender>
+    <direction>Neutral</direction>
+    <stackable>False</stackable>
+  </connector>
+</physical_connection>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<connector>
+  <accessor>out1_p</accessor>
+  <device_label>Output 1 (+)</device_label>
+  <lab_label>AAAA</lab_label>
+  <visual_identifier>left terminal</visual_identifier>
+  <type>SMA</type>
+  <gender>Female</gender>
+  <direction>O</direction>
+  <stackable>False</stackable>
+</connector>
