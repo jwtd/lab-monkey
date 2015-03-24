@@ -1,0 +1,34 @@
+----   Jitter Transfer   ----
+
+my param = 123
+my_param = ['A', 'B']
+MYPARAM = {'A': 1, 
+  'B':'Two'}
+
+# This is my comment
+
+----   Jitter Tolerance   ----
+
+param1 = (1,2,3)
+param2 = (4,5,6)
+param3 = (7,8,9)
+
+/**************************
+This is a multiline comment
+
+hidden_param = (10,11,12)
+
+***************************/
+# hidden_param_2 = 'A'
+ml_param = [
+		 [1,2,3],
+		 ['a', 'b', 'c'],
+			 {'C':1,
+			  'D':'Two'}
+		]
+
+----   Jitter Generation   ---- 
+
+My param = 'A'
+
+# What if the last line is a comment

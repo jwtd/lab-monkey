@@ -1,0 +1,7 @@
+test1.var1 = 'spec_1'
+test1.var2 = 'spec_2'
+test1.var3 = 'spec_3'
+
+test2.var1 = 'spec_21'
+test2.var2 = 'spec_22'
+test2.var3 = 'spec_23'

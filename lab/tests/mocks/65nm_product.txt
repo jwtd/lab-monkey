@@ -1,0 +1,11 @@
+test1.var1 = 'prod_1'
+test1.var2 = 'prod_2'
+test1.var3 = 'prod_3'
+
+test2.var1 = 'prod_21'
+test2.var2 = 'prod_22'
+test2.var3 = 'prod_23'
+
+test3.var1 = 'prod_31'
+test3.var2 = 'prod_32'
+test3.var3 = 'prod_33'
