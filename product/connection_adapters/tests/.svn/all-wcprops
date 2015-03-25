@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/python-lab-automation/!svn/ver/142/trunk/src/product/connection_adapters/tests
+END
+test_fpga_parallel_adapter.py
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/python-lab-automation/!svn/ver/142/trunk/src/product/connection_adapters/tests/test_fpga_parallel_adapter.py
+END
+test_mock_adapter.py
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/python-lab-automation/!svn/ver/142/trunk/src/product/connection_adapters/tests/test_mock_adapter.py
+END
+test_usb_adapter.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/python-lab-automation/!svn/ver/58/trunk/src/product/connection_adapters/tests/test_usb_adapter.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/python-lab-automation/!svn/ver/37/trunk/src/product/connection_adapters/tests/__init__.py
+END
+test_fpga_serial_adapter_90nm_tsmc.py
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/python-lab-automation/!svn/ver/142/trunk/src/product/connection_adapters/tests/test_fpga_serial_adapter_90nm_tsmc.py
+END
+test_connection_adapter_factory.py
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/python-lab-automation/!svn/ver/66/trunk/src/product/connection_adapters/tests/test_connection_adapter_factory.py
+END
+test_fpga_serial_adapter_65nm_tsmc.py
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/python-lab-automation/!svn/ver/142/trunk/src/product/connection_adapters/tests/test_fpga_serial_adapter_65nm_tsmc.py
+END
