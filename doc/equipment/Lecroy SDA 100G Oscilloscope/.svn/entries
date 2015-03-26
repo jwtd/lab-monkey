@@ -1,0 +1,81 @@
+8
+
+dir
+161
+http://nco-svn1.nco.arm.com/svn/python-lab-automation/trunk/doc/equipment/Lecroy%20SDA%20100G%20Oscilloscope
+http://nco-svn1.nco.arm.com/svn/python-lab-automation
+
+
+
+2007-11-29T15:06:42.531523Z
+112
+jordug01
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+72e72746-6f9f-d443-90e7-38c7c6480475
+
+Getting_Started_Rev_E.pdf
+file
+
+
+
+
+2008-01-14T23:13:25.127625Z
+5af91644f1b216a7adf181ba57a0e33e
+2007-11-29T15:06:42.531523Z
+112
+jordug01
+has-props
+
+Remote_Control_Rev_D.pdf
+file
+
+
+
+
+2008-01-14T23:13:25.174500Z
+bb24eb7428e233458bfb0a777f71e9b3
+2007-11-29T15:06:42.531523Z
+112
+jordug01
+has-props
+
+Heads
+dir
+
+Operators_Manual_Rev_G.pdf
+file
+
+
+
+
+2008-01-14T23:13:25.268250Z
+48b716c878579e3047af297e30e12895
+2007-11-29T15:06:42.531523Z
+112
+jordug01
+
+Entire_X-Stream_Automation_Manual.pdf
+file
+
+
+
+
+2008-01-14T23:13:25.299500Z
+7d8042e42495f12ae870c2d5d09e923a
+2007-11-29T15:06:42.531523Z
+112
+jordug01
+

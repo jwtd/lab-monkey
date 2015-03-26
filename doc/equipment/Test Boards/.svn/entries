@@ -1,0 +1,54 @@
+8
+
+dir
+161
+http://nco-svn1.nco.arm.com/svn/python-lab-automation/trunk/doc/equipment/Test%20Boards
+http://nco-svn1.nco.arm.com/svn/python-lab-automation
+
+
+
+2007-12-14T21:24:23.057992Z
+140
+jordug01
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+72e72746-6f9f-d443-90e7-38c7c6480475
+
+Paralell_FPGA_spec.doc
+file
+
+
+
+
+2008-01-14T23:00:06.455750Z
+7a0e57d0642fd01bc4a46fabb5d0d331
+2007-12-14T21:24:23.057992Z
+140
+jordug01
+has-props
+
+Serial_FPGA_spec.doc
+file
+
+
+
+
+2008-01-14T23:00:06.471375Z
+626ea45cabe1d93a3b8ed0a46da78bec
+2007-12-14T21:24:23.057992Z
+140
+jordug01
+has-props
+

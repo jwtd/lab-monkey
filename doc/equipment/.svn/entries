@@ -1,0 +1,58 @@
+8
+
+dir
+161
+http://nco-svn1.nco.arm.com/svn/python-lab-automation/trunk/doc/equipment
+http://nco-svn1.nco.arm.com/svn/python-lab-automation
+
+
+
+2008-01-10T21:54:50.643731Z
+157
+jordug01
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+72e72746-6f9f-d443-90e7-38c7c6480475
+
+Agilent E3631A 80W Triple Output Power Supply
+dir
+
+Agilent 81134A Pulse Pattern Generator
+dir
+
+BERTScope
+dir
+
+Agilent E3648A 100W Dual Output Power Supply
+dir
+
+Tektronix
+dir
+
+Test Boards
+dir
+
+Temptronic TP04300A ThermoStream
+dir
+
+Lecroy SDA 100G Oscilloscope
+dir
+
+Keithley Series 2400 Source Meter
+dir
+
+HP (Agilent) 8648C Signal Generator
+dir
+

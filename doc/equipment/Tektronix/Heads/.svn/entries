@@ -1,0 +1,53 @@
+8
+
+dir
+161
+http://nco-svn1.nco.arm.com/svn/python-lab-automation/trunk/doc/equipment/Tektronix/Heads
+http://nco-svn1.nco.arm.com/svn/python-lab-automation
+
+
+
+2007-11-26T15:50:01.425878Z
+88
+jordug01
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+72e72746-6f9f-d443-90e7-38c7c6480475
+
+80E02_E04_spec_85W_13497.pdf
+file
+
+
+
+
+2008-01-14T22:58:37.533875Z
+1f12a639718ecfd9542646b35cfe9627
+2007-11-26T15:50:01.425878Z
+88
+jordug01
+
+TDR_Measure_55W_14601_0.pdf
+file
+
+
+
+
+2008-01-14T22:58:37.612000Z
+189c0241b4fb366b9952bbaf1093b977
+2007-11-26T15:50:01.425878Z
+88
+jordug01
+has-props
+
