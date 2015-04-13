@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<station>
+  <label>Station Three</label>
+  <adapter>Parallel FPGA</adapter>
+  <devices>
+
+    <!-- Thermal Stream 
+    <device>
+      <address>GPIB0::9</address>
+      <manufacturer>Temptronic</manufacturer>
+      <model>TP04300A</model>
+      <part_code>4000</part_code>
+    </device>
+	-->
+
+    <!-- Power Supplies -->
+    <!-- AAAA BBBB -->
+    <device>
+      <address>GPIB0::1</address>
+      <identifier>AB Power Supply</identifier>
+      <manufacturer>Agilent Technologies</manufacturer>
+      <model>E3648A</model>
+      <part_code>0</part_code>
+      <env_variable>
+        <name>vddcore</name>
+        <device_pointer>Output 1</device_pointer>
+        <property>voltage</property>
+      </env_variable>
+      <env_variable>
+        <name>vdda</name>
+        <device_pointer>Output 2</device_pointer>
+        <property>voltage</property>
+      </env_variable>
+    </device>
+    <!-- CCCC DDDD -->
+    <device>
+      <address>GPIB0::2</address>
+      <identifier>CD Power Supply</identifier>
+      <manufacturer>Agilent Technologies</manufacturer>
+      <model>E3631A</model>
+      <part_code>0</part_code>
+      <env_variable>
+        <name>vddd</name>
+        <device_pointer>Output 6V</device_pointer>
+        <property>voltage</property>
+      </env_variable>
+      <env_variable>
+        <name>vddah</name>
+        <device_pointer>Output P25V</device_pointer>
+        <property>voltage</property>
+      </env_variable>
+    </device>
+    <!-- vdd25_tc -->
+    <device>
+      <address>GPIB0::23</address>
+      <identifier>TC Power Supply</identifier>
+      <manufacturer>Agilent Technologies</manufacturer>
+      <model>E3631A</model>
+      <part_code>0</part_code>
+      <env_variable>
+        <name>vdd25_tc</name>
+        <device_pointer>Output P25V</device_pointer>
+        <property>voltage</property>
+      </env_variable>
+    </device>
+
+
+    <!-- Pattern Generator -->
+    <device>
+      <address>GPIB0::12</address>
+      <manufacturer>Agilent Technologies</manufacturer>
+      <model>81134A</model>
+      <part_code>DE42800167</part_code>
+    </device>
+    
+    <!-- Multimeter -->
+    <device>
+      <address>GPIB0::12</address>
+      <manufacturer>Keithley Instruments</manufacturer>
+      <model>2400</model>
+      <part_code>0824122</part_code>
+    </device>
+
+    <!-- Scope  10.99.1.147 -->
+    <device>
+      <address>LCRY0411N46379.usa.ARM.com</address>
+      <manufacturer>Lecroy</manufacturer>
+      <model>12500A</model>
+      <part_code>LCRY0411N46379</part_code>
+    </device>
+    
+  </devices>
+</station>
